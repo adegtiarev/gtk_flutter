@@ -24,8 +24,8 @@ This is a simple demo project that shows how to integrate Flutter with Firebase 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <REPOSITORY_URL>
-    cd <PROJECT_NAME>
+    git clone https://github.com/adegtiarev/gtk_flutter.git
+    cd gtk_flutter
     ```
 
 2.  **Set up Firebase:**
